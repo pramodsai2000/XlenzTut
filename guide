@@ -1,0 +1,8 @@
+> npm init -y //Creates a package.json
+> npm install express mongoose bcrypt --save //creates node_modules Files
+> Create index.js file //Starting point for the node application
+> node index.js // to start node script
+
+
+> Create database Folder // this folder containg data base Schema(Tables)
+> Create file users.js inside database folder //This contains data base schema
